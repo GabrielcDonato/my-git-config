@@ -5,7 +5,7 @@ git config --global --edit
 
 [user]
 	name = Gabriel Donato
-	email = gabrielcdonato@gmail.com
+	email = name@example.com
 [core]
 	editor = code --wait
 [alias]
